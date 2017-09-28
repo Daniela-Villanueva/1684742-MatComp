@@ -1,0 +1,10 @@
+BFS(Grafo,ni)
+vistitantes=[]
+f=fila()
+f=meter(ni)
+na=f.obtener
+visitantes.append(na)
+in=g.obtener
+for(nodo in in)
+f.meter(nodo)
+return visitantes
